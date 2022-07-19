@@ -48,7 +48,7 @@ const Tecnologies = () => {
       <h2>Tecnologias</h2>
       <div className="technologies-grid">
         {technologies.map((tech) => (
-          <div className="technology-card" id={tech.id} key={tech.id}>
+          <div className="technology-card" id={tech.id} key={tech.id} target="_blank">
             {tech.icon}
             <div className="technology-info">
               <h3>{tech.name}</h3>
