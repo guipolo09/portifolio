@@ -32,7 +32,7 @@ const Projects = () => {
         <div className="project-card" id={project.id} key={project.id}>
           <h3>{project.name}</h3>
           <p>{project.description}</p>
-          <a href={project.link} className="btn">
+          <a href={project.link} className="btn" target="_blank">
             Ver Projeto
           </a>
         </div>
