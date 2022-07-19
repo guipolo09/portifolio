@@ -19,7 +19,7 @@ const technologies = [
     id: "css",
     name: "CSS3",
     icon: <DiCss3 />,
-    description: "Estilização de paginas usando CSS#",
+    description: "Estilização de paginas usando CSS3",
   },
   {
     id: "js",
@@ -32,7 +32,7 @@ const technologies = [
     name: "Node.js",
     icon: <DiNodejsSmall />,
     description:
-      "Configuração e gerenciamento de pacotes pra funcionalidades e integrações",
+      "Configuração e gerenciamento de pacotes para funcionalidades e integrações",
   },
   {
     id: "react",
