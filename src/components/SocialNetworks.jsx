@@ -27,7 +27,7 @@ const SocialNetworks = () => {
           href={network.link}
           className="social-btn"
           id={network.name}
-          key={network.name}
+          key={network.name} target="_blank"
         >
           {network.icon}
         </a>
