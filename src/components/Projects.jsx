@@ -22,6 +22,13 @@ const projects = [
       "Um gerador de senha criado com html, css e javascript. Cria uma senha aleatória usando letras maiusculas, minusculas e caracteres especiais. É possível alterar o tamanho da senha a ser criada arrastando o slide.",
     link: "https://password-generator-one-chi.vercel.app/",
   },
+  {
+    id: "movieswiki",
+    name: "Movies Wiki",
+    description:
+      "Um projeto que traz na pagina inicial os 20 filmes mais bem avaliados. Clicando no card do filme é possível ver o orçamento, tempo de duração e ano do filme. No campo de busca é possível pesquisar sobre um filme específico ou uma serie de filmes. Todos os dados vem de uma api do TMDB.",
+    link: "https://moviewiki-guipolo09.vercel.app/",
+  }
 ];
 
 const Projects = () => {
