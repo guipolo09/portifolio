@@ -28,6 +28,13 @@ const projects = [
     description:
       "Um projeto que traz na pagina inicial os 20 filmes mais bem avaliados. Clicando no card do filme é possível ver o orçamento, tempo de duração e ano do filme. No campo de busca é possível pesquisar sobre um filme específico ou uma serie de filmes. Todos os dados vem de uma api do TMDB.",
     link: "https://moviewiki-guipolo09.vercel.app/",
+  },
+  {
+    id: "calculadora-imc",
+    name: "Calculadora IMC",
+    description: 
+      "Uma calculadora simples de IMC (Indice de Massa Corporal). Calculado através do peso e da altura. Imprime o resultado dizendo em que categoria o IMC da pessoa se encaixa.",
+    link: "https://calculadora-imc-gray.vercel.app/",
   }
 ];
 
