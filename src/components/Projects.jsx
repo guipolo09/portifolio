@@ -35,6 +35,13 @@ const projects = [
     description: 
       "Uma calculadora simples de IMC (Indice de Massa Corporal). Calculado através do peso e da altura. Imprime o resultado dizendo em que categoria o IMC da pessoa se encaixa.",
     link: "https://calculadora-imc-gray.vercel.app/",
+  },
+  {
+    id: "explorer-lab-01",
+    name: "Explorer Lab",
+    description: 
+      "Projeto realizado no Explorer Lab da Rocketseat, usando IMask para configurar as mascaras dos inputs e preencher o cartão com nome, tipo do cartão, data de expiração e código de verificação. ",
+    link: "https://explorer-lab-01-sfoz.vercel.app/"
   }
 ];
 
