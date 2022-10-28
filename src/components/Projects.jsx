@@ -42,6 +42,12 @@ const projects = [
     description: 
       "Projeto realizado no Explorer Lab da Rocketseat, usando IMask para configurar as mascaras dos inputs e preencher o cartão com nome, tipo do cartão, data de expiração e código de verificação. ",
     link: "https://explorer-lab-01-sfoz.vercel.app/"
+  },
+  {
+    id:"simple-pokedex",
+    name: "Simple Pokedex",
+    description: "Projeto realizado no bootcamp da DIO construindo uma pokedex simples com o consumo de API da pokeAPI.",
+    link: "https://simple-pokedex-eight.vercel.app/"
   }
 ];
 
