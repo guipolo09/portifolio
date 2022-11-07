@@ -5,7 +5,7 @@ const socialNetworks = [
   {
     name: "linkedin",
     icon: <FaLinkedinIn />,
-    link: "https://www.linkedin.com/in/guilherme-polo-4a6a42234/",
+    link: "https://www.linkedin.com/in/guilhermepolo/",
   },
   {
     name: "github",
