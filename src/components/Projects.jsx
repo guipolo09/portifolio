@@ -48,6 +48,12 @@ const projects = [
     name: "Simple Pokedex",
     description: "Projeto realizado no bootcamp da DIO construindo uma pokedex simples com o consumo de API da pokeAPI.",
     link: "https://simple-pokedex-eight.vercel.app/"
+  },
+  {
+    id:"github-finder",
+    name: "Github Finder",
+    description: "Projeto do Matheus Battisti, consumindo a api do github e exibindo usuário com link para seus repositórios.",
+    link: "https://github-finder-m6m8d2uta-guipolo09.vercel.app/"
   }
 ];
 
