@@ -16,8 +16,9 @@ const About = () => {
         equipe e saber lidar com prazos e tarefas.
       </p>
       <p>
-        Estudo e pesquiso muito, aprendendo um pouco a cada dia. Estou apenas no
-        início da minha caminhada.
+        Atualmente estudo Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera por EAD.
+        Trabalho como estagiário no controle, processamento e análise de pedidos da Natura & CO.
+        Procuro uma vaga como desenvolvedor Front-end
       </p>
     </section>
   );
