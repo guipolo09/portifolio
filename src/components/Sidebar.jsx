@@ -11,8 +11,8 @@ const Sidebar = () => {
       <p className="title">Desenvolvedor</p>
       <SocialNetworks />
       <InformationContainer />
-      <a href="" className="btn">
-        Download
+      <a href="https://wa.me/5514935007435" className="btn">
+        Whatsapp
       </a>
     </aside>
   );
