@@ -1,4 +1,4 @@
-import Avatar from "../images/eu.jpeg";
+import Avatar from "../images/foto-perfil.png";
 import SocialNetworks from "./SocialNetworks";
 import InformationContainer from "./InformationContainer";
 
