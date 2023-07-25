@@ -15,7 +15,7 @@ const socialNetworks = [
   {
     name: "instagram",
     icon: <FaInstagram />,
-    link: "https://www.instagram.com/guilhermemartinspolo/",
+    link: "https://www.instagram.com/guipolo_sanf/",
   },
 ];
 
